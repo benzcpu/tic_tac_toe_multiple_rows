@@ -1,0 +1,40 @@
+.setting{
+  padding: 10px;
+
+}
+.d-flex{
+  flex-wrap: wrap;
+}
+.operation{
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+
+}
+.table-tic td{
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  text-align: center;
+}
+.table-tic td:hover{
+  background-color: rgba(31, 223, 255, 0.81);
+}
+.blog-player{
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.container{
+  margin-top: 30px;
+}
+.operation{
+  line-height: 90px;
+}
+.
+//@media only screen and (max-width: 991px) {
+// .operation{
+//   width: 100%;
+// }
+//}
